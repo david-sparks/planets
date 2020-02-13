@@ -1,0 +1,21 @@
+Ideas for research
+
+-Straightforward LL research in small sharks (i.e. morphological, neurophysiological, behavioral responses)
+-Shark swimming behaviors in response to turbulent changes in fluid flow (kinematics, fluid mechanics)
+-Imapct of body type or specific anatomical features (esp. fins) on swimming behaviors and response to simpler changes in fluid flow (morphology, kinematics, fluid mechanics)
+-Fluid pressure detection in sharks (locations and stimulus thresholds of detection, similar to Elias's work)
+-Visual motion tracking and responset to turbulence (i.e. when a shark is chasing a prey item, and turbulent waters disrupt its hunting behavior, how does it escape?)
+-*New idea after talking with Collette* Look into bonnethead and sharpnose shark environments and learn about what the fluid dynamic environment is like 
+  (are they coastal? In reef systems? Calm or choppy waters?). Base research questions on that.
+
+Current work pursuant of those ideas:
+Meeting with Gareth to talk about influence of denticles on fluid flow (esp. around LL pores), and the innvervation of denticles
+Meeting with Rob to learn more about the museum's collections (esp. clear staining of sharks)
+Read up on current knowledge of the LL in sharks
+Read up on current knowledge of LL in bony fish (to help form hypotheses)
+Learn about sharpnose sharks and bonnetheads specifically (according to Collette's advice)
+Lean how to do fish surgery from colleague
+Sit in on Animal Behavior, Fluid Mechanics, and Ichthyology to learn overviews of the subjects and gain broader perspectives
+Find time to travel to Whitney for work with projections of 'prey items'
+Program a projection of a 'prey item' moving around time in Whitney
+
