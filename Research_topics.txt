@@ -4,7 +4,6 @@ Ideas for research
 -Shark swimming behaviors in response to turbulent changes in fluid flow (kinematics, fluid mechanics)
 -Imapct of body type or specific anatomical features (esp. fins) on swimming behaviors and response to simpler changes in fluid flow (morphology, kinematics, fluid mechanics)
 -Fluid pressure detection in sharks (locations and stimulus thresholds of detection, similar to Elias's work)
--Visual motion tracking and responset to turbulence (i.e. when a shark is chasing a prey item, and turbulent waters disrupt its hunting behavior, how does it escape?)
 -*New idea after talking with Collette* Look into bonnethead and sharpnose shark environments and learn about what the fluid dynamic environment is like 
   (are they coastal? In reef systems? Calm or choppy waters?). Base research questions on that.
 
@@ -19,3 +18,19 @@ Sit in on Animal Behavior, Fluid Mechanics, and Ichthyology to learn overviews o
 Find time to travel to Whitney for work with projections of 'prey items'
 Program a projection of a 'prey item' moving around time in Whitney
 
+
+First Year Projects
+
+-Visual motion tracking in sharks (i.e. with projector image).
+-Correlate electrical sensation with fluid flow sensing (thinking about how this relates to sensing a fish prey item)
+-Jerk as a metric for measuring small, transient changes in swimming pattern, whether that be corrective behavior (e.g. to a perturbation in fluid flow, contact with an object, evasion of a predator) or transition in swimming gait
+-Comparative morphology of shark denticles around all pores (LL pores, Ampullae di Lore, pit organs, pinnae) velocity profile of water across LL pores
+-Effect of turbulence on shoaling behavior of S. tiburo
+-Relationship between head shape or whole body shape and detection of pressure
+-Relationship between body morphologies and swimming kinematics (haven't picked out a structure of the body to consider yet)
+-Jettison water at individual LL pores in swimming sharks and either correlate this with:
+  -kinematic behavioral response (measure rate of swimming gait cycle or change in direction. Unless another response is initially observed).
+  -electrophysiological response
+  -muscular response
+-See if there's a correlation between behavioral responses to sudden random turbulence and cerebellum structure across shark species. (Thinking about an article that I referenced a lot for my literature review last year. The author basically stated that shark brain anatomies fit certain 'cerebrotypes' based ecological niche rather than evolutionary transition. Aids in the way we think about evolution.)
+-
